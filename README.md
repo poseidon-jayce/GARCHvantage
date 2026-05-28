@@ -1,4 +1,5 @@
-<img width="646" height="369" alt="image" src="https://github.com/user-attachments/assets/89107cbd-ed4d-4475-87b6-901603aae731" /># GARCHvantage
+# GARCHvantage
+
 An automated quantitative asset management platform integrating Oracle 21c ledgers with an EGARCH volatility pipeline and Black-Litterman portfolio optimization. Tracks systematic factor drift against the NIFTY 50 and generates actionable FIX/CSV rebalancing order batches for instant multi-broker execution.
 
 GARCHvantage: Advanced Volatility Analytics & Capital AllocationGARCHvantage is an enterprise-grade quantitative finance platform designed to model, forecast, and exploit asset volatility.
